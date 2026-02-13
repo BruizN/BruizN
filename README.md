@@ -20,7 +20,7 @@ I am a passionate developer from **Santiago, Chile**, currently finishing my deg
 My goal is to bridge the gap between academic theory and real-world enterprise standards. I treat every personal project as a production-grade product.
 
 * 🔭 **I’m currently working on:** [BeGamer Components](https://github.com/BruizN/begamer-pc-components) - An e-commerce API built with strict engineering standards (C4 Model, ADRs, CI/CD).
-* 🌱 **I’m currently learning:** Advanced Linux Administration & Cybersecurity.
+* 🌱 **I’m currently learning:** Linux Administration & Cybersecurity.
 * 🧠 **My Philosophy:** I believe in **"AI-Assisted Engineering"**. I use AI as a Copilot to accelerate development, but I apply my own rigorous engineering criteria to audit, correct, and architect the final solution.
 
 ---
@@ -37,11 +37,9 @@ My goal is to bridge the gap between academic theory and real-world enterprise s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Architecture & Tooling:**
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Structurizr](https://img.shields.io/badge/C4_Model-Structurizr-blue?style=for-the-badge)
 
 ---
