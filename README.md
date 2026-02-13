@@ -6,7 +6,7 @@
   
   *Turning coffee into clean, scalable, and documented code.* ☕ ➡️ 💻
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/bruno-ruizn)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bruno-ruizn)
   [![Mail](https://img.shields.io/badge/Email-Contact_Me-c14438?style=flat&logo=gmail)](mailto:brunoruizn@gmail.com)
 
 </div>
